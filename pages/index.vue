@@ -143,7 +143,7 @@
     </section>
     <div>
       <div id="sub">
-        <h2>BE PART OF OUR PROGRAM</h2>
+        <h2>BE A PART OF OUR PROGRAMS</h2>
         <P
           >Be the first to get updates on our activities & exciting developments
           towards building a better future!</P
@@ -161,22 +161,20 @@
               <p>+234 704 839 8466</p>
             </div>
             <div class="footer-end">
-              <p>309 Close, Banana Island, Ikoyi Lagos, Nigeria</p>
-              <p>info@gtexthomes.com</p>
-              <p>+234 704 839 8466</p>
-              <p>+234 704 839 8466</p>
+              <p>About</p>
+              <p>About Gtext Homes</p>
+              <p>Careers</p>
+              <p>Privacy Policy</p>
             </div>
             <div class="footer-end">
-              <p>309 Close, Banana Island, Ikoyi Lagos, Nigeria</p>
-              <p>info@gtexthomes.com</p>
-              <p>+234 704 839 8466</p>
-              <p>+234 704 839 8466</p>
+              <p>Helpful Links</p>
+              <p>Contact Us</p>
+              <p>Blog</p>
+              <p>Projects</p>
             </div>
             <div class="footer-end-last">
-              <p>309 Close, Banana Island, Ikoyi Lagos, Nigeria</p>
-              <p>info@gtexthomes.com</p>
-              <p>+234 704 839 8466</p>
-              <p>+234 704 839 8466</p>
+              <p>Follow Us</p>
+              <img src="../" />
             </div>
           </div>
         </div>
@@ -461,7 +459,8 @@ export default {
   padding: 50px 50px 50px 90px;
 }
 .foot-in {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   border-bottom: 2px solid white;
   padding: 20px 0;
 }
