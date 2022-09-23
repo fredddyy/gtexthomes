@@ -157,6 +157,7 @@
             <div class="footer-end">
               <p>309 Close, Banana Island, Ikoyi Lagos, Nigeria</p>
               <p>info@gtexthomes.com</p>
+              
               <p>+234 704 839 8466</p>
               <p>+234 704 839 8466</p>
             </div>
